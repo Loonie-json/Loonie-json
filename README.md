@@ -10,9 +10,9 @@
 
 <p style="display: inline_block">
   <img src="https://raw.githubusercontent.com/teuUser/teuRepo/main/assets/hacker.gif" width="300">
-  <img src="https://tenor.com/view/boy-kisser-cute-dance-gregoria-gif-3795838309085519849" width="300">
-  <img src="https://tenor.com/pt-BR/view/happy-boykisser-smile-gif-18088020230772935461" width="300">
-  <img src="https://tenor.com/pt-BR/view/boykissermeme-gif-12060869056861362303" width="300">
+  <img src="https://tenor.com/eGy8UeqN8e5.gif" width="300">
+  <img src="https://tenor.com/vIluhLa1t7x.gif" width="300">
+  <img src="https://tenor.com/gNFosDkojQL.gif" width="300">
 </p>
 
 ![snake_Ani](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
