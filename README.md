@@ -8,10 +8,4 @@
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </div>
 
-<p align="center">
-  <img src="https://media.tenor.com/eGy8UeqN8e5.gif" width="300" style="max-width:100%;height:auto" alt="gif 1" />
-  <img src="https://media.tenor.com/vIluhLa1t7x.gif" width="300" style="max-width:100%;height:auto" alt="gif 2" />
-  <img src="https://files.catbox.moe/q00gxb.mp4" width="300" style="max-width:100%;height:auto" alt="gif 3" />
-</p>
-
 ![snake_Ani](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
