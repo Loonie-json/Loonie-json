@@ -9,10 +9,9 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/teuUser/teuRepo/main/assets/hacker.gif" width="300" style="max-width:100%;height:auto" alt="hacker gif" />
-  <img src="https://tenor.com/eGy8UeqN8e5.gif" width="300" style="max-width:100%;height:auto" alt="gif 1" />
-  <img src="https://tenor.com/vIluhLa1t7x.gif" width="300" style="max-width:100%;height:auto" alt="gif 2" />
-  <img src="https://tenor.com/gNFosDkojQL.gif" width="300" style="max-width:100%;height:auto" alt="gif 3" />
+  <img src="https://media.tenor.com/eGy8UeqN8e5.gif" width="300" style="max-width:100%;height:auto" alt="gif 1" />
+  <img src="https://media.tenor.com/vIluhLa1t7x.gif" width="300" style="max-width:100%;height:auto" alt="gif 2" />
+  <img src="https://media.tenor.com/gNFosDkojQL.gif" width="300" style="max-width:100%;height:auto" alt="gif 3" />
 </p>
 
 ![snake_Ani](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
